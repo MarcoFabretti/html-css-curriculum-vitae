@@ -1,0 +1,23 @@
+body{
+    align-items: center;
+    text-align: center;
+    width: 900px;
+    margin-left: 20%;
+}
+
+hr{
+    color:orange !important;
+}
+
+.PsT1{
+    color:orange;
+}
+
+#dgrey{
+    background-color: lightgray;
+}
+
+#FotoP{
+    width: 200px!important;
+    height: 200px!important;
+}

@@ -1,34 +1,22 @@
 body{
+    align-items: center;
+    text-align: center;
     width: 900px;
     margin-left: 20%;
 }
 
-header{
-    text-align: center;
-    align-items: center;
-    border-bottom: 2px solid;
-    border-color: orange !important;
+hr{
+    color:orange !important;
 }
 
-footer{
-    text-align: center;
-    align-items: center;
-    border-top: 2px solid;
-    border-color: orange !important;
-    font-size: small;
+.PsT1{
+    color:orange;
 }
 
-/*PreSetTitle*/
-.PsT{
-   color: orange;
-}
-
-/*div grey*/
 #dgrey{
     background-color: lightgray;
 }
 
-/*Foto Profilo*/
 #FotoP{
     width: 200px!important;
     height: 200px!important;

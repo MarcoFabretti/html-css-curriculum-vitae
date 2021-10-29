@@ -1,23 +1,28 @@
 body{
-    align-items: center;
-    text-align: center;
     width: 900px;
     margin-left: 20%;
 }
-
-hr{
-    color:orange !important;
-}
-
-.PsT1{
-    color:orange;
-}
-
-#dgrey{
+header{
+    text-align: center;
+    align-items: center;
+    border-bottom: 2px solid;
+    border-color: orange;
     background-color: lightgray;
 }
-
-#FotoP{
-    width: 200px!important;
-    height: 200px!important;
+footer{
+    text-align: center;
+    align-items: center;
+    border-top: 2px solid;
+    border-color: orange;
+    font-size: small;
 }
+/*PreSetTitle*/
+.PsT{
+   color: orange;
+}
+/*div grey*/
+
+/*Foto Profilo*/
+#FotoP{
+    width: 200px;
+    height: 200px;
